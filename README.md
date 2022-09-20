@@ -21,3 +21,9 @@ pip install opencv-python
 # install mediapipe
 pip install mediapipe
 ```
+### Description of the library
+A summary of explanations about libraries:
+* The `pyautogui` Python library helps to control and click the mouse.
+* The `cv2` Python  library helps to work with images and videos.
+* The `mediapipe` Python library helps to Extract hand from video and draw it.
+
